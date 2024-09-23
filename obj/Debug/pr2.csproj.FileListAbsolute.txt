@@ -1,0 +1,14 @@
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr2\bin\Debug\pr2.exe.config
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr2\bin\Debug\pr2.exe
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr2\bin\Debug\pr2.pdb
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr2\obj\Debug\pr2.csproj.AssemblyReference.cache
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr2\obj\Debug\pr2.exe
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr2\obj\Debug\pr2.pdb
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr3\bin\Debug\pr2.exe.config
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr3\bin\Debug\pr2.exe
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr3\bin\Debug\pr2.pdb
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr3\obj\Debug\pr2.csproj.AssemblyReference.cache
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr3\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr3\obj\Debug\pr2.exe
+D:\Users\1213-6\Documents\2-ИСП\ОП.04\Шмидт\pr3\obj\Debug\pr2.pdb
